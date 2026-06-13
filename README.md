@@ -1,4 +1,4 @@
-# EasyCRUD - Student Registration System
+# EasyCRUD - Student Registration System Project
 
 A full-stack web application for student registration with a React frontend and Spring Boot backend.
 
